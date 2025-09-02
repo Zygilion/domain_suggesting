@@ -1,3 +1,7 @@
+# Experiments and analysis
+
+In `domain_suggestions.ipynb` experiments can be found for relevant domain name suggestions based on business description with different prompt engineering techniques, fine tuning open source LLM model and comparing the results.
+
 # Domain Suggestion API
 
 A Fast API based REST API that generates domain name suggestions based on business descriptions using a fine-tuned Qwen3-0.6B language model.
