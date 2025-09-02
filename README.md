@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 
 ```bash
-python domain_suggesting_api.py
+python main.py
 ```
 
 The API will start on `http://localhost:8000`
