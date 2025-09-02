@@ -1,0 +1,410 @@
+# Business Description to Domain Name Training Dataset
+
+## Format
+Each entry contains a business description followed by 10 relevant domain name suggestions with various TLDs.
+
+---
+
+**Business Description:** Fitness studio offering yoga, pilates, and meditation classes
+
+**Domain Suggestions:**
+1. zenfitstudio.org
+2. mindfulmovement.co
+3. yogabliss.net
+4. pilatespure.com
+5. serenityworkout.top
+6. balancestudiohub.link
+7. flowfitnesscenter.biz
+8. tranquilbody.info
+9. holisticfitlab.zone
+10. peacefulpilates.store
+
+---
+
+**Business Description:** Artisanal bakery specializing in sourdough bread and pastries
+
+**Domain Suggestions:**
+1. crustcraft.com
+2. sourdoughsoul.bakery
+3. artisanbreadco.net
+4. flourishingovens.org
+5. goldencrustreats.shop
+6. doughdelights.store
+7. handcraftedloaves.co
+8. bakerystoneheart.biz
+9. yeastmastery.info
+10. breadboutique.kitchen
+
+---
+
+**Business Description:** Digital marketing agency focusing on social media management and SEO
+
+**Domain Suggestions:**
+1. digitalboostpro.com
+2. socialmediawise.agency
+3. seoexperts.digital
+4. marketingmavericks.co
+5. onlinegrowthlab.net
+6. digitalstrategygroup.biz
+7. socialseocentral.org
+8. webmarketingpros.info
+9. digitalvisibilityteam.consulting
+10. marketingmomentum.solutions
+
+---
+
+**Business Description:** Veterinary clinic providing comprehensive pet care and emergency services
+
+**Domain Suggestions:**
+1. pawsandhealth.vet
+2. caringsidevet.com
+3. pethealthcentral.org
+4. vetcareprofessionals.net
+5. animalwellnessclinic.co
+6. furryfriendsvet.care
+7. compassionatevetcare.com
+8. petmedicalexperts.clinic
+9. healthypawsvet.org
+10. emergencyvetservices.pro
+
+---
+
+**Business Description:** Organic farm selling fresh vegetables and herbs at local farmers markets
+
+**Domain Suggestions:**
+1. freshorganicproduce.farm
+2. greenharvestfarm.org
+3. farmfreshveggies.co
+4. organicgardenpro.net
+5. earthygreensfarm.com
+6. naturalharvest.organic
+7. localfarmfresh.market
+8. seedtotablefarm.biz
+9. pureorganicgrow.info
+10. farmersmarketfresh.store
+
+---
+
+**Business Description:** Coffee roastery and café serving specialty single-origin coffee
+
+**Domain Suggestions:**
+1. singleorigincoffee.roastery
+2. craftcoffeeroasters.com
+3. beancraftcafe.co
+4. specialtycoffeehouse.net
+5. roastmasterscafe.org
+6. origincoffeelab.shop
+7. artisancoffeecompany.biz
+8. coffeebeansource.info
+9. premiumroastcafe.store
+10. coffeecraftersden.cafe
+
+---
+
+**Business Description:** Interior design studio specializing in modern minimalist homes
+
+**Domain Suggestions:**
+1. modernminimalistdesign.studio
+2. cleanlineinteriors.com
+3. minimalistdesignlab.co
+4. simplespacedesign.net
+5. modernhomedesigners.org
+6. minimalinteriorpro.biz
+7. sleekspacesstudio.info
+8. contemporarydesignhub.design
+9. minimalistlivingdesign.store
+10. modernspacecreators.consulting
+
+---
+
+**Business Description:** Children's daycare center with educational programs for ages 2-5
+
+**Domain Suggestions:**
+1. littlelearnersdaycare.com
+2. brightstartchildcare.org
+3. kidslearningcenter.net
+4. earlyeducationhub.co
+5. playfullearningdaycare.biz
+6. creativekidscare.info
+7. nurturingmindschildcare.care
+8. happychildrenscenter.org
+9. developmentaldaycare.edu
+10. kidsfirstlearning.center
+
+---
+
+**Business Description:** Plumbing service company offering residential and commercial repairs
+
+**Domain Suggestions:**
+1. reliableplumbingpros.com
+2. quickfixplumbing.service
+3. masterplumbersolutions.net
+4. emergencyplumbingteam.org
+5. professionalplumberco.biz
+6. plumbingexpertsgroup.pro
+7. fastplumbingrepairs.info
+8. qualityplumbingservice.co
+9. trustedplumbersteam.services
+10. plumbingsolutionspro.repair
+
+---
+
+**Business Description:** Bookstore café combining book sales with artisanal coffee and reading spaces
+
+**Domain Suggestions:**
+1. bookscoffeelounge.com
+2. literarycafebooks.co
+3. readandsipbookstore.net
+4. coffeepagesbookshop.org
+5. booklovercafe.store
+6. chapterandbean.biz
+7. storybookcoffeehouse.cafe
+8. readingcornerbooks.info
+9. novelcoffeecompany.shop
+10. bookishbrewcafe.books
+
+---
+
+**Business Description:** Wedding photography studio specializing in outdoor and destination weddings
+
+**Domain Suggestions:**
+1. outdoorweddingphotography.studio
+2. destinationweddingpics.com
+3. natureweddingphotos.net
+4. weddingphotographypro.co
+5. romanticweddingshots.org
+6. destinationphotoartist.biz
+7. outdoorbridalphotography.info
+8. weddingmomentscapture.photography
+9. scenicweddingphotos.pro
+10. loveandlightphotography.wedding
+
+---
+
+**Business Description:** Auto repair shop focusing on hybrid and electric vehicle maintenance
+
+**Domain Suggestions:**
+1. hybridautorepair.com
+2. electricvehicleservice.shop
+3. greencarrepairpro.net
+4. hybridmechanic.org
+5. ecoautoservice.co
+6. electriccarexperts.biz
+7. sustainableautorepair.info
+8. hybridvehiclecare.service
+9. greenautomotive.repair
+10. ecocarspecialists.pro
+
+---
+
+**Business Description:** Yoga instructor offering private classes and corporate wellness programs
+
+**Domain Suggestions:**
+1. privateyogainstructor.com
+2. corporatewellnessyoga.org
+3. personalyogateacher.net
+4. workplacewellnessyoga.co
+5. mindfulnessinstructor.biz
+6. yogaforcompanies.info
+7. privateyogasessions.pro
+8. corporateyogateacher.wellness
+9. customyogaprograms.services
+10. wellnessyogapro.consulting
+
+---
+
+**Business Description:** Handmade jewelry boutique featuring unique gemstone and silver pieces
+
+**Domain Suggestions:**
+1. handmadejewelryboutique.com
+2. gemstonesilverjewelry.co
+3. artisanjewelrycreations.net
+4. uniquegemjewelry.org
+5. handcraftedjewelryshop.store
+6. silvergemstonedesigns.biz
+7. boutiquejewelryartist.info
+8. customjewelrycrafters.shop
+9. gemstoneartistry.jewelry
+10. handmadesilverjewelry.boutique
+
+---
+
+**Business Description:** Personal training studio offering one-on-one fitness coaching and nutrition guidance
+
+**Domain Suggestions:**
+1. personaltrainingpro.com
+2. fitnesscoachingstudio.net
+3. oneononefitness.org
+4. personalfitnessguru.co
+5. customfitnesscoaching.biz
+6. nutritionandfitnesspro.info
+7. personaltrainerexpert.fitness
+8. fitnessnutritioncoach.pro
+9. individualsfitnesslab.services
+10. personalwellnesscoach.training
+
+---
+
+**Business Description:** Landscaping company specializing in sustainable garden design and maintenance
+
+**Domain Suggestions:**
+1. sustainablelandscaping.com
+2. ecogardensdesign.net
+3. greelandscapingpro.org
+4. sustainablegardenco.co
+5. ecolandscapeexperts.biz
+6. organicgardendesign.info
+7. greenlandscapingsolutions.services
+8. sustainablelandscapedesign.pro
+9. ecofriendlygardens.landscaping
+10. naturallandscapeartistry.garden
+
+---
+
+**Business Description:** Food truck serving gourmet burgers made with locally sourced ingredients
+
+**Domain Suggestions:**
+1. gourmetburgertruck.com
+2. localingredientsburgers.food
+3. foodtruckgourmet.net
+4. artisanburgermobile.org
+5. farmtotablburgers.co
+6. mobilegourmetburgers.biz
+7. localburgertruck.info
+8. gourmetstreetburgers.truck
+9. farmfreshburgertruck.mobile
+10. artisanburgerco.food
+
+---
+
+**Business Description:** Online tutoring service providing academic support for high school students
+
+**Domain Suggestions:**
+1. onlinetutoringpro.com
+2. highschooltutorhelp.net
+3. academicsupportonline.org
+4. studenttutoringservice.co
+5. onlinelearningassist.biz
+6. digitaltutoringexperts.info
+7. studysupportonline.edu
+8. academictutoringpro.services
+9. onlinelearningcoach.tutoring
+10. studentacademichelp.online
+
+---
+
+**Business Description:** Craft brewery producing small-batch ales and hosting tasting events
+
+**Domain Suggestions:**
+1. craftbreweryales.brewery
+2. smallbatchbrewing.com
+3. artisanaleco.net
+4. craftbeerbrewers.org
+5. localbreweryco.co
+6. handcraftedales.biz
+7. brewerytastingroom.info
+8. craftbeertasting.pub
+9. artisanbrewingcompany.beer
+10. localalebrewery.brewing
+
+---
+
+**Business Description:** Massage therapy clinic offering therapeutic and relaxation treatments
+
+**Domain Suggestions:**
+1. therapeuticmassageclinic.com
+2. relaxationmassagepro.net
+3. healingmassagetherapy.org
+4. wellnessmassagecenter.co
+5. therapeuticbodywork.biz
+6. massagetherapyexperts.info
+7. healinghandsmassage.wellness
+8. relaxationtherapycentr.massage
+9. bodytherapymassage.clinic
+10. holisticmassagetherapy.therapy
+
+---
+
+## Evaluation Dataset
+
+These examples are designed for model evaluation and testing:
+
+---
+
+**Business Description:** Mobile pet grooming service bringing professional grooming directly to customers' homes
+
+**Domain Suggestions:**
+1. mobilepetgroomers.com
+2. doorstepgrooming.service
+3. petgroomingmobile.net
+4. homepetcare.org
+5. mobilegroomingpros.co
+6. petspamobile.biz
+7. travelingpetgroomer.info
+8. ondemandpetgrooming.mobile
+9. mobilepetbeauty.services
+10. groomingonyourspot.pro
+
+---
+
+**Business Description:** Cybersecurity consulting firm helping small businesses protect against digital threats
+
+**Domain Suggestions:**
+1. cybersecurityconsulting.com
+2. smallbusinesscyber.net
+3. digitalsecuritypro.org
+4. cyberthreatsolutions.co
+5. securityconsultantgroup.biz
+6. cybersafeguardexperts.info
+7. digitalsecurityconsulting.security
+8. cyberprotectionpro.consulting
+9. businesscybersafety.services
+10. infosecurityadvisors.cyber
+
+---
+
+**Business Description:** Vintage clothing store specializing in 1970s and 1980s fashion pieces
+
+**Domain Suggestions:**
+1. vintagerevivalstore.com
+2. retro7080fashion.vintage
+3. classicvintageapparel.net
+4. throwbackfashionshop.org
+5. nostalgicvintageclothing.co
+6. retrochicboutique.biz
+7. vintagewardrobe.info
+8. decadesfashionstore.shop
+9. retrovintagecloset.store
+10. timelessvintagestyle.fashion
+
+---
+
+**Business Description:** Language learning center offering conversational classes in Spanish, French, and Mandarin
+
+**Domain Suggestions:**
+1. conversationallanguages.com
+2. multilinguallearning.center
+3. languagecenterplus.net
+4. speakfluently.org
+5. worldlanguageinstitute.co
+6. conversationclass.biz
+7. languagelearninglab.info
+8. globalspeeking.education
+9. multilanguageacademy.school
+10. fluencycentral.language
+
+---
+
+**Business Description:** Drone photography service specializing in real estate aerial shots and event coverage
+
+**Domain Suggestions:**
+1. aerialdroneshots.com
+2. realestataeaerialphotography.net
+3. dronephotographypro.org
+4. skycapturedrones.co
+5. aerialeventphotography.biz
+6. droneshootingservice.info
+7. aerialphotographyexperts.drone
+8. skylinedronephotos.photography
+9. elevatedperspectiveshots.aerial
+10. dronecameraservices.pro
